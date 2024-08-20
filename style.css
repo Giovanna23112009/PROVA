@@ -1,3 +1,14 @@
 body{
     background-color: black;
 }
+
+p {
+    color: azure;
+}
+
+.giovanna {
+    font-style: italic;
+}
+h1{
+    text-align: center;
+}
