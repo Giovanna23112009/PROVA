@@ -1,5 +1,13 @@
 body{
     background-color: rgb(27, 26, 26);
+    margin:0px
+}
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size:20px;
+    text-decoration: none;
+    color: rgba(red, green, blue, alpha)
 }
 
 p {
@@ -13,6 +21,7 @@ p {
 h1 {
     text-align: center;
 }
+
 .img1 {
     width: 50%;
 }
